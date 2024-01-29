@@ -13,7 +13,7 @@ As I mentioned before, I will be working at HP doing data analytics work. My gro
 
 # Portfolio
 ## Visualizing Government Debt Using Tableau
-[Click here to see!](/datavis2.md)
+[Click here to see!](/dataviz2.md)
 
 
 ## Assignment 3/4

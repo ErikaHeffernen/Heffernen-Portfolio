@@ -12,7 +12,8 @@ This is my final semester at Carnegie Mellon, and I was hoping to take classes t
 As I mentioned before, I will be working at HP doing data analytics work. My group takes in data from customers about our products. From there, we dig into the data, find key takeaways, and present them to key stakeholders who make decisions on products and our company. It is fulfilling work, but I often present very similar charts and graphs. I hope this class shows the depth of how to make intriguing charts and graphs. 
 
 # Portfolio
-## Data Visualization 1
+## Visualizing Government Debt Using Tableau
+[Click here to see!](/datavis2.md)
 
 ## Assignment 3/4
 

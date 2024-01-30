@@ -25,5 +25,13 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+## Decisions Behind the Data Visualization
+My first thought after seeing all this data was "what does this look like on a world map?". With that inspiration, I wanted to use the data provided and create a world view of all the countries. From there, I decided to use the average of the % of GDP for each country. I toyed around with the idea of doing just the most recent year but concluded that audiences might want a historical average for each country. This way, audiences would be able to see which countries were consistently good with low government debt in terms of % of GDP or bad with high government debt in terms of % of GDP. 
+
+From there, I chose the color of the heatmap. I thought about using one color like orange, but that made it difficult to differentiate which countries were worse compared to others. I tried the blue to orange hue but saw that the orange would stand out while the blue did not shine through as much. For this visualization, I wanted to make sure audiences easily saw the difference between the best and worst countries in terms of government debt per % of GDP. Eventually, I landed on a green to orange hue. Green represented the lower end of the spectrum while orange represented the higher end. With these colors, audiences can quickly understand the dark green countries have lower values and are "good" while coutries in a dark orange had higher values and are "bad", tapping into heuristics. Both the green and oranges colors pop out of the map attracting the audience's attention. 
+
+## Different Methods of Visualization
+
+
 ### Return Back to Home Page 
 [Click this link to head back home!](/README.md)

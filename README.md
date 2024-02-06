@@ -20,6 +20,7 @@ As I mentioned before, I will be working at HP doing data analytics work. My gro
 
 
 ## Assignment 3/4
+[Click here to see!](/assignment34.md)
 
 ## Practicing Persuasion
 

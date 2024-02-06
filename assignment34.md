@@ -26,15 +26,41 @@ I think the primary audience is not farmers but instead, lay people who maybe do
 ### Final Thoughts
 I think this method was mostly effective in evaluating the visualization selected. I think this included some of the most important measures like aesthetics, usefulness, and intuitiveness. I am unsure what other measures I would have wanted included in this critique. I would change how much context is given for this visualization. I would want historical data to perhaps show the growth over time of some crops or the decline of others. I like all four of these categories, but I am unsure how most fecund is important, especially for a lay audience. I would slightly change the colors but maintain the earth tone hues. I would also want a different way to display the variables in a more uniform way or even separate them. Since the question asked is “What is the biggest cash crop?”, we want our audience to understand which one is it almost immediately. That would mean changing the order for most revenue first to the left. 
 
-# Step Three
-### Sketches
-Based on the critique, I decided to sketch some potential, different visualizations for this type of data. I thought the original one was well done but wanted to think creatively about how to display this data more effectively. 
+# Step Three and Four
+### Sketches and Feedback 
+Based on the critique, I decided to sketch some potential, different visualizations for this type of data. I thought the original one was well done but wanted to think creatively about how to display this data more effectively. Additionally, I have included the feedback I received while I tested my several solutions. I interviewed a student, late teens, and an adult, early 20s. 
 
-<img width="476" alt="Screen Shot 2024-02-05 at 9 25 35 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/58dcb498-569e-4795-b594-c961e33f753f">
+<img width="666" alt="Screen Shot 2024-02-05 at 9 49 20 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/76522da2-04e1-4fc8-a07a-91fb44a4764b">
 
-<img width="453" alt="Screen Shot 2024-02-05 at 9 25 18 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/b7d5280f-544c-497e-ab1d-7ef037697c3f">
+### Sketch 1: Line Chart 
+#### Sketch
+One of my questions from the critique was "when did this happen". This visualization incorporates that concept but deviates greatly from the original. This includes 8 groupings of crops instead of the original 21, which was done to reduce to total number of crops and simplify the visualization using groups. The X axis starts in 1960 to 2020, which is the range of years in this dataset. This type of graph was drawn to demonstrate the changing of crop harvesting patterns over time. This way, the audience might be able to deduce that for example sugar crops grow the most over time while oil crops decrease. The Y axis is the area harvested in ha. I do understand that there are four different categories that the original compared which were most planted, fecund, popular, and revenue. For the sake of time, I decided to represent just most planted for this sketch. The colors chosen were inspired by the colors from the original. I wanted to keep the earth tones like orange, green, and brown. 
 
-# Step Four
+#### Feedback
+
+
+<img width="679" alt="Screen Shot 2024-02-05 at 9 50 34 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/161a7b77-c8f7-4720-90ed-2d56a30b042a">
+
+### Sketch 2: World Map
+#### Sketch
+Another lack of context that the original missed was where these crops were planted. This world map sketch incorporated each continent and what percentage of that continent grows a certain crop. Again, the crops were group together for simplicity. Although Africa is the only continent colored in, the plan is to do that for all continents. I decided to create this type of visualization because it helped me put together where in the world certain crops are more popular and how much more are they being produced compared to other continents. This would be difficult to implement via Tableau, but the idea behind it interested me. I used a similar color pallete to the first still creating an earthy aesthetic. 
+
+#### Feedback
+
+
+<img width="860" alt="Screen Shot 2024-02-05 at 9 51 38 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/a9b4be9f-606c-4979-8531-e58c41e3885f">
+
+### Sketch 3: Treemap
+#### Sketch
+Although not pictured, there was an additional graphic shown furthur down in the article that uses different sized bubbles to show profit of certain crops. I was inspired by this and decided to create a treemap that showed a closer comparison between the different crop groups. This would make it much easier to directly compare how much a certain crop is being produced and see it in terms of size compared to others. This is a better way to represent the data compared to a bubble chart to show comparison in sizes. Although it does not address the gaps in context like when and where, this does create better understanding of totals and sizes. The same colors from the other two visualizations were used in this as well to maintain the earthy aesthetic. 
+
+#### Feedback 
+
+<img width="866" alt="Screen Shot 2024-02-05 at 9 52 22 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/8d3de132-8c91-47ad-b9ad-3f684b9a631f">
+
+### Sketch 4: Bar Chart
+#### Sketch 
+Similar to the original, I decided to use a bar graph to represent this data. Since the original was pretty good to start with, I was interested in creating more context for this data, and that was by differentiating the contients within each crop group. This answers the question "where" and could be a great comparison to show which continent is producing the most cereals or fruit while also showing a comparison of all the crops and their total area harvested. This bar graph provides a little more context that audiences are interested in. Only cereals is colored in, but that is what all bars would hypothetically look like. Although these colors are representing different variables now, I still wanted to keep the earthy aesthetic and used similar colors from before. 
 
 # Step Five
 

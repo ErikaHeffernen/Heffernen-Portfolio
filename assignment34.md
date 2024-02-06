@@ -68,4 +68,7 @@ The student liked how they were able to see the breakdown of the continents in t
 
 # Step Five
 
+### Return Back to Home Page 
+[Click this link to head back home!](/README.md)
+
 

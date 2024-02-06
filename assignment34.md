@@ -1,11 +1,13 @@
 # Assignment 3 & 4: Critique by Design with Tableau
 
-### Makeover Monday: "What is the world's biggest cash crop?"
+# Step One
+### Makeover Monday - "What is the world's biggest cash crop?"
 This visualization was provided by [Information is Beautiful](https://informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/) with data pulled from sources including the United Nations, FAO, and UNODC. This visualization represents the most planted, most fecund, most popular, and most revenue making crops across all continents over 2014. 
 
 <img width="1090" alt="Screen Shot 2024-02-05 at 8 56 16 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/ddf7cb46-a269-46d1-84e8-02c25d405931">
 
-# Critique
+# Step Two
+### Critique
 Using the Data Visualization Effectiveness Profile from Stephen Few, I graded this visualization on a scale from 1 (worst) to 10 (best) based on 7 factors: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. 
 * Usefulness: 7
 * Completeness: 6
@@ -23,4 +25,16 @@ I think the primary audience is not farmers but instead, lay people who maybe do
 
 ### Final Thoughts
 I think this method was mostly effective in evaluating the visualization selected. I think this included some of the most important measures like aesthetics, usefulness, and intuitiveness. I am unsure what other measures I would have wanted included in this critique. I would change how much context is given for this visualization. I would want historical data to perhaps show the growth over time of some crops or the decline of others. I like all four of these categories, but I am unsure how most fecund is important, especially for a lay audience. I would slightly change the colors but maintain the earth tone hues. I would also want a different way to display the variables in a more uniform way or even separate them. Since the question asked is “What is the biggest cash crop?”, we want our audience to understand which one is it almost immediately. That would mean changing the order for most revenue first to the left. 
+
+# Step Three
+### Sketches
+Based on the critique, I decided to sketch some potential, different visualizations for this type of data. I thought the original one was well done but wanted to think creatively about how to display this data more effectively. 
+
+<img width="476" alt="Screen Shot 2024-02-05 at 9 25 35 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/58dcb498-569e-4795-b594-c961e33f753f">
+
+<img width="453" alt="Screen Shot 2024-02-05 at 9 25 18 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/b7d5280f-544c-497e-ab1d-7ef037697c3f">
+
+# Step Four
+
+# Step Five
 

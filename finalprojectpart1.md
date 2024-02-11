@@ -15,7 +15,7 @@ Colorectal cancer has become a growing concern for younger adults in recent year
 ## Initial Sketches
 <img width="459" alt="Screen Shot 2024-02-10 at 8 21 00 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/3223d6b1-7be1-4c4c-9206-6d08eda47395">
 
-
+<img width="499" alt="Screen Shot 2024-02-10 at 8 21 09 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/26b4a0a8-ceff-41a7-b94e-6bf5f030d685">
 
 ## Data
 At this moment in time, I have found one that is publicly available. It does not possess just one dataset, instead, there is a dashboard and data you can download from that. I plan to use this source for some of the sketches that I created. The CDC or Centers for Disease Control and Prevention is an American-based organization that works to protect and provide resources for those with a disease, cancer, and other safety threats. Within the CDC website, the United States Cancer Statistics: Data Visualization dashboard provides data on ethnicity, age, sex, race, etc. They provide data on the most common cancers like colorectal. This data is recent running from 2016 to 2020. 

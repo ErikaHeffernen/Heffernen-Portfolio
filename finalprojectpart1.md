@@ -9,6 +9,9 @@ Through this final project, I want to learn more about this topic: what is going
 #### One Sentence Summary
 Colorectal cancer has become a growing concern for younger adults in recent years. 
 
+#### Storyline
+<img width="434" alt="Screen Shot 2024-02-10 at 8 20 51 PM" src="https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/26be015c-d2c4-40f0-8ebf-a67878730ba2">
+
 ## Initial Sketches
 
 ## Data

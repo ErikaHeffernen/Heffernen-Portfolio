@@ -67,7 +67,9 @@ All three participants understood what they were meant to do after reading this 
 #### Action Items
 After learning about how these three people interpreted my project differently, I was able to understand what changes I would need to make. I want to start by playing around with the colors for the visualizations and seeing what combination works well together without overwhelming the audience. I want to see if I can represent the lifestyle data differently. Because it is looking at a correlation, I would be interested to see what data is out there to show that. I also need to insert the citations, so I will be working to implement those. Overall, I receive great feedback and I am happy to add any details that are going to help clarify the topic for my audience. 
 
-
-
+### Check out the other parts of the project 
+[Click here to see Part 1](/finalprojectpart1.md)
+[Click here to see Part 3](/finalproject3.md)
+[Click here to go to the main page!](/README.md)
 
 

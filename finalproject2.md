@@ -30,7 +30,6 @@ I have included a total of 14 visualizations that I have created or redesigned u
 8. The people graphic shows some perspective as to how many people with CRC are younger than 55. It is simple and uses simple colors, so it is not distracting from the other graphics. I decided to add this because it creates a good break from the incidence rate and the mortality rate.
 9. The ninth visualization is made and accessed through Tableau. The audience can click and look at all of the mainland states from 1990 to 2019. This is a great graphic to look at which regions of the United States have a higher prevalence of CRC. The colors ranged from green (lower prevalence) to red (higher prevalence). I decided to lean into the red/green bad/good heuristic for this one.
 10. The final visualization is one of the 5 in the scrollmation. This one specifically shows where the population has CRC and is medically obese. Each lifestyle topic has its individual color. The one shown is orange. The darker the color, the more prevalent. The one thing that was hard to incorporate was the source, so that is one of the work-in-progress items.
-11. 
 
 ## User Research: Protocol
 #### Target Audience

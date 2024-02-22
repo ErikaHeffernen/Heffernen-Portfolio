@@ -47,11 +47,11 @@ The target audience is younger adults who are concerned about their health. I be
 
 Here are the questions that I asked after they looked through the site on their own. 
 
-Now that you have looked at this once, what was the overall message I was trying to convey? 
-What is one thing that was memorable to you or that you took away from this?
-Did you feel like the flow of one section to another was seamless? What didn’t work and what did?
-Do you think the graphics and visualizations helped you with your understanding of the concept?
-What visualization was the easiest to understand or did you like the most and which visualization/s need more work?
-Did you understand what you were meant to do after reading this article? 
-What are some overall/general thoughts and feedback? 
+1. Now that you have looked at this once, what was the overall message I was trying to convey? 
+2. What is one thing that was memorable to you or that you took away from this?
+3. Did you feel like the flow of one section to another was seamless? What didn’t work and what did?
+4. Do you think the graphics and visualizations helped you with your understanding of the concept?
+5. What visualization was the easiest to understand or did you like the most and which visualization/s need more work?
+6. Did you understand what you were meant to do after reading this article? 
+7. What are some overall/general thoughts and feedback? 
 

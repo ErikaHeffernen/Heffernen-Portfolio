@@ -26,3 +26,6 @@ As I mentioned before, I will be working at HP doing data analytics work. My gro
 
 ## Final Project Part 1
 [Click here to see!](finalprojectpart1.md)
+
+## Final Project Part 2
+[Click here to see!](finalproject2.md)

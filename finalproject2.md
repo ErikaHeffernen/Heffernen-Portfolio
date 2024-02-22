@@ -29,4 +29,18 @@ I have included a total of 14 visualizations that I have created or redesigned u
 7. This visualization is similar to the sixth, but this one includes the mortality rate instead of incidence. The downward trend is not as noticeable but still exists. I make the yellow and red colors darker to make it more serious. These colors are very similar, so I am looking at other ways to show this chart with color.
 8. The people graphic shows some perspective as to how many people with CRC are younger than 55. It is simple and uses simple colors, so it is not distracting from the other graphics. I decided to add this because it creates a good break from the incidence rate and the mortality rate.
 9. The ninth visualization is made and accessed through Tableau. The audience can click and look at all of the mainland states from 1990 to 2019. This is a great graphic to look at which regions of the United States have a higher prevalence of CRC. The colors ranged from green (lower prevalence) to red (higher prevalence). I decided to lean into the red/green bad/good heuristic for this one.
-10. The final visualization is one of the 5 in the scrollmation. This one specifically shows where the population has CRC and is medically obese. Each lifestyle topic has its individual color. The one shown is orange. The darker the color, the more prevalent. The one thing that was hard to incorporate was the source, so that is one of the work-in-progress items. 
+10. The final visualization is one of the 5 in the scrollmation. This one specifically shows where the population has CRC and is medically obese. Each lifestyle topic has its individual color. The one shown is orange. The darker the color, the more prevalent. The one thing that was hard to incorporate was the source, so that is one of the work-in-progress items.
+11. 
+
+## User Research: Protocol
+#### Target Audience
+The target audience is younger adults who are concerned about their health. I believe this is general knowledge that younger adults should take with them. There may come a time when information like this is helpful for them and helps them diagnose systems quicker. It may save their lives potentially.  
+
+#### Representative Individuals 
+- 1 late teenager - Although they are not in the demographic that I have talked about in the data, I think it is important to understand how younger people feel about the way I presented this data. Since they might not have as much knowledge of data quite yet, it would be interesting to learn more about how they interpret it. 
+
+- 1 early 20s - This is the type of person that I want to reach my project with. They are the ideal demographic. I would be interested to learn more about how they felt and what they took away from the site. I would like to know what stood out to them and made them want to take action.
+
+- 1 mid 50s - This is the other end of the demographic that is experiencing a new trend. I would like to know if they have started to take action on this subject or if they have talked to their doctor about possible conditions. They would be able to add an interesting perspective to the conversation. 
+
+

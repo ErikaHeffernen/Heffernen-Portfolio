@@ -47,11 +47,23 @@ The target audience is younger adults who are concerned about their health. I be
 
 Here are the questions that I asked after they looked through the site on their own. 
 
-1. Now that you have looked at this once, what was the overall message I was trying to convey? 
-2. What is one thing that was memorable to you or that you took away from this?
+1. Now that you have looked at this once, what was the overall message I was trying to convey?
+Looking at my first question which asked what everyone believes the overall message was, all three of the participants responded around the same lines. They all were now more aware of colon cancer especially for younger people and how diets and weights might affect one’s ability to develop CRC. 
+
+2.  What is one thing that was memorable to you or that you took away from this?
+The second question varied a little since it asked for their opinion. Both the younger participants liked the animations, whether it was the colon or the changes in the graphs. The older participant liked the information that was provided and how it was a concern that they now knew. 
+  
 3. Did you feel like the flow of one section to another was seamless? What didn’t work and what did?
+For the third question, the mid 50 participant thought the transitions were really well done. The one thing he did mention is that they wanted to know if the incident and mortality rates could be separated. That would have helped them understand it a little easier. The late teen thought the flow of information was pretty seamless. The order in which the information was presented made sense and did not obstruct or distract them. The early 20 participant also thought the flow worked. They especially liked the transition between the lifestyle USA charts. 
+  
 4. Do you think the graphics and visualizations helped you with your understanding of the concept?
+The fourth question also had varying answers. The mid 50 participant thought that making the colors a little different from the incidence and mortality might make it easier to understand the visualizations. Since the colors were originally so close, it was hard to even know there was a change in graph unless you were looking closely. The late teen did not provide any constructive feedback and instead thought that they helped deepend their understanding of the cancer, who it has impacted, and where it is prevalent. They did want more description within the graphs themselves like for BMI and clarification with the units. The early 20 participant liked the graphics but would have appreciated maybe different charts for the lifestyles instead of what was currently there.
+
 5. What visualization was the easiest to understand or did you like the most and which visualization/s need more work?
-6. Did you understand what you were meant to do after reading this article? 
-7. What are some overall/general thoughts and feedback? 
+The fifth question asked what visualizations were the easiest to understand and which ones need more work. The mid 50 participant like the opening line graphs going down for older people and going up for younger people. The late teen did not understand what prevalence per 100,0000 meant and wanted clarification on those. The early 20 participant really liked the transition for the large intestine and colon. They thought it was a creative way to show the colon and helped them understand the different sections. 
+
+6. Did you understand what you were meant to do after reading this article?
+All three participants understood what they were meant to do after reading this article and that was get checked if you think you are showing any of these symptoms. I am glad that they were able to take away these concepts since that is what I wanted out of a call to action. 
+
+
 

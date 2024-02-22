@@ -62,7 +62,12 @@ The fourth question also had varying answers. The mid 50 participant thought tha
 The fifth question asked what visualizations were the easiest to understand and which ones need more work. The mid 50 participant like the opening line graphs going down for older people and going up for younger people. The late teen did not understand what prevalence per 100,0000 meant and wanted clarification on those. The early 20 participant really liked the transition for the large intestine and colon. They thought it was a creative way to show the colon and helped them understand the different sections. 
 
 6. Did you understand what you were meant to do after reading this article?
-All three participants understood what they were meant to do after reading this article and that was get checked if you think you are showing any of these symptoms. I am glad that they were able to take away these concepts since that is what I wanted out of a call to action. 
+All three participants understood what they were meant to do after reading this article and that was get checked if you think you are showing any of these symptoms. I am glad that they were able to take away these concepts since that is what I wanted out of a call to action.
+
+#### Action Items
+After learning about how these three people interpreted my project differently, I was able to understand what changes I would need to make. I want to start by playing around with the colors for the visualizations and seeing what combination works well together without overwhelming the audience. I want to see if I can represent the lifestyle data differently. Because it is looking at a correlation, I would be interested to see what data is out there to show that. I also need to insert the citations, so I will be working to implement those. Overall, I receive great feedback and I am happy to add any details that are going to help clarify the topic for my audience. 
+
+
 
 
 

@@ -1,7 +1,7 @@
 # Part 3 - Final Project
 
 ## Github Final Project Page
-[Use this link to get to Shorthand](/[https://carnegiemellon.shorthandstories.com/growth-of-colorectal-cancer-in-young-adults/index.html](https://carnegiemellon.shorthandstories.com/growth-of-colorectal-cancer-in-young-adults/index.html))
+[Use this link to get to Shorthand](https://carnegiemellon.shorthandstories.com/growth-of-colorectal-cancer-in-young-adults/index.html)
 
 #### Links and References
 [Use this link to access my references](/https://docs.google.com/document/d/1q6BQxopYlQNP0X5EcMO1T6hU_g0ji4Yi8HO9w162GCw/edit?usp=sharing)

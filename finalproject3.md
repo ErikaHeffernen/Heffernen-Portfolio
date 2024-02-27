@@ -1,10 +1,10 @@
 # Part 3 - Final Project
 
 ## Github Final Project Page
-[Use this link to get to Shorthand](/https://carnegiemellon.shorthandstories.com/growth-of-colorectal-cancer-in-young-adults/index.html)
+[Use this link to get to Shorthand](/[https://carnegiemellon.shorthandstories.com/growth-of-colorectal-cancer-in-young-adults/index.html](https://carnegiemellon.shorthandstories.com/growth-of-colorectal-cancer-in-young-adults/index.html))
 
 #### Links and References
-[Use this link to access my references](https://docs.google.com/document/d/1q6BQxopYlQNP0X5EcMO1T6hU_g0ji4Yi8HO9w162GCw/edit?usp=sharing)
+[Use this link to access my references](/https://docs.google.com/document/d/1q6BQxopYlQNP0X5EcMO1T6hU_g0ji4Yi8HO9w162GCw/edit?usp=sharing)
 
 ## Changes Made
 - I ultimately decided to change the colors for the line charts for incidence and mortality rates. This is because I wanted to make sure the audience was able to differentiate between the different categories. Previously, it was not obvious enough, so the audience did not pick up that information. With these new colors, it is easier to differentiate and interpret. I tried to make the combinations of colors that were much more different from each other.

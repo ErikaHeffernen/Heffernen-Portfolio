@@ -14,7 +14,7 @@
 - The last major part of the story that I altered was the final learn more section. This section includes an information site, colonoscopy preparation for those interested in participating, and further information and what you need to know going forward with CRC. One of my critics also mentioned how they did not know how to sign up for a colonoscopy and would like resources for that, so I included it.  These new boxes are more sleep compared to the previous 2. 
 
 ## Audience
-My audience for this final data story is young adults, specifically in the age range of 18-50. This is the demographic that may not know they are increasing risk of colorectal cancer. Through this story, I hope that they learn about the new trends with younger adults, what types of lifestyles may put them at more risk, and what to do if they are concerned with their health on this topic. From my interviews, it was great to understand how my target audience perceives this information. If they did not understand a graph or asked questions, I tried to incorporate their feedback into my story. 
+My audience for this final data story is young adults, specifically in the age range of 18-50. This is the demographic that may not know they are increasing risk of colorectal cancer. Through this story, I hope that they learn about the new trends with younger adults, what types of lifestyles may put them at more risk, and what to do if they are concerned with their health on this topic. From my interviews, it was great to understand how my target audience perceives this information. I tried to incorporate their feedback into my story if they did not understand a graph or asked questions. It was interesting learning from my target age group. Going forward, I think I would have liked to grab people in the middle age group, like 30-40. 
 
 ## Summary of Visualizations
 ![Wireframes](https://github.com/ErikaHeffernen/Heffernen-Portfolio/assets/70291703/b4764d1d-029f-4565-bbbb-097d7baf87ca)
@@ -37,6 +37,11 @@ My audience for this final data story is young adults, specifically in the age r
 10-14 These visualizations were created in the same manner. Although they were all created in Tableau, to make the scrollmation work, I had to make them images. The colors were not as meaningful as the previous graphics. I decided to use colors given by Tableau that were differentiable. The audience should be able to tell a clear difference when scrolling through all of these. 
 
 15 This last visualization was created on Canva. I decided on a simplified chart compared to my first draft, so the audience can easily pick out what type of test may fit their situation. The colors of this chart match the original large intestine colors to keep the color scheme mostly consistent. 
+
+### Check out the other parts of the project 
+- [Click here to see Part 1](/finalprojectpart1.md)
+- [Click here to see Part 2](/finalproject2.md)
+- [Click here to go to the main page!](/README.md)
 
 
 
